@@ -1,1 +1,4 @@
-Flake that exposes the tools I use for screen capture
+Flake that exposes the tools I use for screen capture.
+
+- **Linux**: [`flameshot`](https://flameshot.org)
+- **MacOS**: [`macshot`](https://macshot.io)
