@@ -7,6 +7,6 @@
   };
 
   outputs = { ... }: {
-    homeModules.screencapture = import ./modules;
+    homeModules.screencapture = import ./modules/screencapture-home.nix;
   };
 }
